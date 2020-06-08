@@ -8,4 +8,4 @@
  <h2> Rol: Ingeniero de pruebas de sistema</h2>
  <h3> Herramienta utilizada: StarUML</h3>
 <hr>
-<img src="">
+<img src="https://github.com/git-general-ud/Roles-FIS/blob/master/Rol_FIS.jpg">
